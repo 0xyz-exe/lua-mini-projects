@@ -1,0 +1,11 @@
+*.swp
+*.swo
+*~
+.DS_Store
+*.log
+*.tmp
+/projects/*/data/*.json
+/projects/*/data/*.txt
+/projects/*/data/*.csv
+!/projects/*/data/sample*
+.luacheckcache
