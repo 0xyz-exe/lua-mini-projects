@@ -2,6 +2,22 @@
 
 15 complete, functional, tested Lua projects demonstrating core language features, game development, and system programming.
 
+Repository: https://github.com/0xyz-exe/lua-mini-projects
+
+## Screenshots
+
+### Snake 2D Game (LÖVE Engine)
+![Snake 2D Game](docs/screenshots/01_snake_game.png)
+
+### 2D Platformer Game (LÖVE Engine)
+![2D Platformer](docs/screenshots/02_platformer.png)
+
+### Terminal Games & Interactive CLI
+![Terminal CLI](docs/screenshots/03_terminal_cli.png)
+
+### Test Runner & Suite Execution
+![Test Runner](docs/screenshots/04_test_suite.png)
+
 ## 🎯 Projects Overview
 
 | # | Project | Type | Key Features |
