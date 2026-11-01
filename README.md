@@ -6,16 +6,20 @@ Repository: https://github.com/0xyz-exe/lua-mini-projects
 
 ## Screenshots
 
-### Snake 2D Game (LÖVE Engine)
+### 1. Snake 2D Game (LÖVE Engine)
+Permainan klasik Snake berbasis engine LÖVE 2D dengan grid rendering 20px, mekanika deteksi collision, pembaruan skor real-time, dan kontrol arah:
 ![Snake 2D Game](docs/screenshots/01_snake_game.png)
 
-### 2D Platformer Game (LÖVE Engine)
+### 2. 2D Platformer Game (LÖVE Engine)
+Game platformer 2D dengan implementasi fisika gravitasi (1200 px/s²), deteksi platform collision, koin koleksi (collectibles), serta pelacakan skor level:
 ![2D Platformer](docs/screenshots/02_platformer.png)
 
-### Terminal Games & Interactive CLI
+### 3. Terminal Games & Interactive CLI
+Koleksi game dan utilitas interaktif berbasis terminal konsol (Tic-Tac-Toe dengan win detection, CLI calculator, dan number guessing game):
 ![Terminal CLI](docs/screenshots/03_terminal_cli.png)
 
-### Test Runner & Suite Execution
+### 4. Test Runner & Suite Execution
+Test runner modular untuk memverifikasi fungsionalitas seluruh 15 proyek mini Lua dengan assertion terstruktur dan rekapitulasi status pengujian otomatis:
 ![Test Runner](docs/screenshots/04_test_suite.png)
 
 ## 🎯 Projects Overview
